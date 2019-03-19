@@ -524,7 +524,7 @@ public abstract class AbstractEnvironment implements ConfigurableEnvironment {
 	}
 
 
-	//---------------------------------------------------------------------
+	//---------------------------------------√------------------------------
 	// Implementation of PropertyResolver interface
 	//---------------------------------------------------------------------
 
