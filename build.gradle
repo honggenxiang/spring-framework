@@ -243,8 +243,8 @@ configure(subprojects - project(":spring-build-src")) { subproject ->
 	}
 
 	artifacts {
-		archives sourcesJar
-		archives javadocJar
+//		archives sourcesJar
+//		archives javadocJar
 	}
 }
 
@@ -284,9 +284,9 @@ configure(rootProject) {
 	}
 
 	artifacts {
-		archives docsZip
-		archives schemaZip
-		archives distZip
+//		archives docsZip
+//		archives schemaZip
+//		archives distZip
 	}
 
 	wrapper {
